@@ -34,7 +34,8 @@ for (let i = 0; i < inputArray.length; i++) {
 // Function: find cell & add dot
 function addDot(number) {
     if (number == 1) {
-      document.alphaOne.style.backgroundColor = 'red';
+      document.body.appendChild(alphaOne);
+      alphaOne.backgroundColor = 'red';
     } else if (number == 2) {
       document.alphaTwo.style.backgroundColor = 'blue';
     } else if (number == 3) {
