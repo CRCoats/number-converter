@@ -1,0 +1,10 @@
+td {
+    border: 1px solid black;
+    height: 125px;
+    width: 125px;
+    background: white;
+}
+
+.alphaOne, .alphaTwo, .alphaThree, .betaOne, .betaTwo, .betaThree, .gammaOne, .gammaTwo, .gammaThree {
+    background-color: white;
+}
