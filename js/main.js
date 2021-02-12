@@ -4,7 +4,7 @@ input = input.toLowerCase();
 const inputArray = input.split("");
 
 // Converts original input into array of digits 1 through 9.
-// abc = 1, def = 2, ghi = 3, jkl = 4, mno = 5, pqr = 6, stu = 7, vw = 8, xyz = 9
+// abc = 1, def = 2, ghi = 3, jkl = 4, mno `= 5, pqr = 6, stu = 7, vw = 8, xyz = 9
 //      | 1 | 2 | 3 |
 //      | 4 | 5 | 6 | 
 //      | 7 | 8 | 9 |
